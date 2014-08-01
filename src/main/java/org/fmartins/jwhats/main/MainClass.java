@@ -1,10 +1,10 @@
-package org.fmartins.jwhats;
+package org.fmartins.jwhats.main;
 
 /**
- * Hello world!
+ * Main class os application
  *
  */
-public class App 
+public class MainClass 
 {
     public static void main( String[] args )
     {
