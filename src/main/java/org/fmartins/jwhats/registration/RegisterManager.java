@@ -18,6 +18,7 @@ public class RegisterManager {
   public void registerNumber(String cc, String in){
     try {
       URLConnection connection = new URL(url+"?").openConnection();
+      
     } catch (IOException e) {
       // TODO Auto-generated catch block
       e.printStackTrace();
