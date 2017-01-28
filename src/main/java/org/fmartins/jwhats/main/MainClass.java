@@ -8,9 +8,9 @@ import org.fmartins.jwhats.registration.CodeRequest;
  */
 public class MainClass 
 {
-    public static void main( String[] args )
-    {
-        CodeRequest req = new CodeRequest();
-        req.getCode("55", "558587971539");
-    }
+	public static void main( String[] args )
+	{
+		CodeRequest req = new CodeRequest();
+		req.getCode("55", "558587971539");
+	}
 }

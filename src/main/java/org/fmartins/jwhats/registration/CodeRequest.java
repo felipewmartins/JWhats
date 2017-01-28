@@ -8,7 +8,6 @@ import java.net.URLEncoder;
 
 public class CodeRequest {
   private String charset = "UTF-8";
-  //private String p_in;
   private String url ="http://v.whatsapp.net/v2/code";
   
 
